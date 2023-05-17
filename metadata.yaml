@@ -1,0 +1,35 @@
+_repo: Afrikan-viimeinen-kuningas_70585
+_version: 0.0.1
+alternative_title: Prester John. Finnish
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: https://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70585'
+language: fi
+pgterms:marc905: 20221202050138buchan
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Scots -- South Africa -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Afrikan viimeinen kuningas
+url: http://www.gutenberg.org/ebooks/70585
