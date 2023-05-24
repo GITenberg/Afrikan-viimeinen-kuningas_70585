@@ -1,6 +1,9 @@
 _repo: Afrikan-viimeinen-kuningas_70585
 _version: 0.1.0
 alternative_title: Prester John. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/285
     wikipedia: https://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70585#Afrikan-viimeinen-kuningas
 gutenberg_issued: '2023-04-18'
 identifiers:
   gutenberg: '70585'
